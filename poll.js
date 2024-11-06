@@ -342,4 +342,4 @@ async function create_poll (question, poll_type, poll_options = {}) {
 
 //create_poll("pollLetterAlternative test", "pollLetterAlternatives", {"options": ["X", "YZ", "ZZZZ", "JAKSDHNFSKJDF"]});
 
-// create_poll("pollYesNoAbstentionBtn test", "pollYesNoAbstentionBtn", {"options": ["X", "YZ", "ZZZZ", "JAKSDHNFSKJDF"]});
+//create_poll("pollYesNoAbstentionBtn test", "pollYesNoAbstentionBtn", {"options": ["X", "YZ", "ZZZZ", "JAKSDHNFSKJDF"]});
